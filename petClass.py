@@ -14,7 +14,7 @@ cat = Pet('The Cat', 'cat')
 dog = Pet('Bear', 'dog')
 
 
-print(cat.species)
+print(cat.name)
 
 
 
